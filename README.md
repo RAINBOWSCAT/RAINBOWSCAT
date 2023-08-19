@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=D50E5C&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Here+are+nothing.;There+will+be+something+soon%EF%BC%81%EF%BC%81%EF%BC%81)](#)
 
+<div>
 <a href="https://github.com/RAINBOWSCAT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RAINBOWSCAT" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rainbowscat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/RAINBOWSCAT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAINBOWSCAT&layout=compact&langs_count=8&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainbowscat&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
+<br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAINBOWSCAT&layout=compact)](#)-->
 
 [![Cloudwhile's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAINBOWSCAT&theme=default)](https://github.com/RAINBOWSCAT)
